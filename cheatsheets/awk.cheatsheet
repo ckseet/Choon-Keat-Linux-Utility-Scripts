@@ -1,0 +1,1 @@
+cat.css | grep font-family | sed 's/\;//g' | awk '{print  "<p style=\"font-family:" $2 "\">" $2 " Serenedipity Singapore</p>" ;}'

@@ -1,0 +1,172 @@
+@font-face{
+	font-family: argentinebold;
+	src: url(/fonts/Argentine-Bold.ttf);
+}
+
+@font-face{
+	font-family: argentineregular;
+	src: url(/fonts/Argentine-Regular.ttf);
+}
+
+@font-face{
+	font-family: B690ScriptBold;
+	src: url(/fonts/B690-Script-Bold.ttf);
+}
+
+
+@font-face{
+	font-family: B690ScriptRegular;
+	src: url(/fonts/B690-Script-Regular.ttf);
+}
+
+@font-face{
+	font-family: B820Script;
+	src: url(/fonts/B820-Script.ttf);
+}
+
+
+@font-face{
+	font-family: BalladScript ;
+	src: url(/fonts/Ballad-Script.ttf);
+}
+
+
+@font-face{
+	font-family: BaroqueScript ;
+	src: url(/fonts/BaroqueScript.ttf);
+}
+
+
+@font-face{
+	font-family: BayScript;
+	src: url(/fonts/BayScript.ttf);
+}
+
+
+@font-face{
+	font-family: BernhardElegant-Regular;
+	src: url(/fonts/BernhardElegant-Regular.ttf);
+}
+
+
+@font-face{
+	font-family: CenturyExpandedItalic;
+	src: url(/fonts/Century-Expanded-Italic.ttf);
+}
+
+
+@font-face{
+	font-family: CommercialScriptRegular;
+	src: url(/fonts/Commercial-Script-Regular.ttf);
+}
+
+
+@font-face{
+	font-family: D730Script;
+	src: url(/fonts/D730-Script.ttf);
+}
+
+@font-face{
+	font-family: DaisyScript;
+	src: url(/fonts/DaisyScript.ttf);
+}
+
+
+@font-face{
+	font-family: ElegantScript ;
+	src: url(/fonts/Elegant-Script.ttf);
+}
+
+@font-face{
+	font-family: FlorenceScript;
+	src: url(/fonts/FlorenceScript.ttf);
+}
+
+@font-face{
+	font-family: FreebooterScript;
+	src: url(/fonts/Freebooter-Script.ttf);
+}
+
+@font-face{
+	font-family: glyphiconshalflingsregular ;
+	src: url(/fonts/glyphicons-halflings-regular.ttf);
+}
+
+@font-face{
+	font-family: JacquesHandwriting;
+	src: url(/fonts/JacquesHandwriting.ttf);
+}
+
+@font-face{
+	font-family: L690Script;
+	src: url(/fonts/L690-Script.ttf);
+}
+
+@font-face{
+	font-family: L691Script ;
+	src: url(/fonts/L691-Script.ttf);
+}
+
+@font-face{
+	font-family: L730Script;
+	src: url(/fonts/L730-Script.ttf);
+}
+
+@font-face{
+	font-family: LoosieScript ;
+	src: url(/fonts/LoosieScript.ttf);
+}
+
+@font-face{
+	font-family: Mecheria ;
+	src: url(/fonts/Mecheria.ttf);
+}
+
+@font-face{
+	font-family: Melville ;
+	src: url(/fonts/Melville.ttf);
+}
+
+@font-face{
+	font-family: odstemplik;
+	src: url(/fonts/odstemplik.ttf);
+}
+
+@font-face{
+	font-family: PhiladelphiaInitialsRegular;
+	src: url(/fonts/Philadelphia-Initials-Regular.ttf);
+}
+
+@font-face{
+	font-family: PhiladelphiaRegular;
+	src: url(/fonts/Philadelphia-Regular.ttf);
+}
+
+@font-face{
+	font-family: R690Script;
+	src: url(/fonts/R690-Script.ttf);
+}
+
+@font-face{
+	font-family: R791ScriptBold;
+	src: url(/fonts/R791-Script-Bold.ttf);
+}
+
+@font-face{
+	font-family: R791ScriptRegular;
+	src: url(/fonts/R791-Script-Regular.ttf);
+}
+
+@font-face{
+	font-family: Scriptina;
+	src: url(/fonts/Scriptina.ttf);
+}
+
+@font-face{
+	font-family: Yorkshire;
+	src: url(/fonts/Yorkshire.ttf);
+}
+
+p {
+	font-size:20px;
+}
