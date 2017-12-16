@@ -12,7 +12,7 @@ function  printUsage
 	echo -e "Usage : $0 PATH_TO_GITREPO_CSV" 
 	echo -e "\tPATH_TO_GITREPO_CSV : path to csv file containing git details"
 	echo -e "\nExpected Git Config CSV layout"
-	echo -e "REMOTE_CONFIG,CURRENT_USER,PATH_TO_LOCAL_REPO"
+	echo -e "REMOTE_CONFIG,PATH_TO_LOCAL_REPO"
 	echo -e "\tREMOTE_CONFIG : Path to git bitbucket config"
 	echo -e "\tPATH_TO_LOCAL_REPO: Path to current repo"
 }
