@@ -34,7 +34,7 @@ ERROR_FLAG_REPO_ENTRY="ERROR_REPO_FORMAT"
 ERROR_FLAG_REPO="E";
 
 run_flag="Y" 
-
+git config --global credential.helper 'cache --timeout 3600'
 while read line
 do
 	echo processing "$line"
